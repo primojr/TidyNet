@@ -1,0 +1,14 @@
+Package: tidtnet
+Title: Analise Titulos NETFLIX  
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Gerson",
+           family = "Primo",
+           role = c("aut","cre"),
+           email = "gersonprimo@gmail.com")
+Description: Teste para criacao de um projeto no R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.0.0
